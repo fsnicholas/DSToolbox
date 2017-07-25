@@ -1,5 +1,5 @@
 # DSToolbox
-##Coursera The Data Scientist's Toolbox (2017)
+## Coursera The Data Scientist's Toolbox (2017)
 ### by Jeffrey Leek
 
 This course is an introduction to the tools and ideas that will be used in this course Data Science Specialization. It is focused on providing three things: 
